@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.1] - 2025-07-31
+
+### Updated
+
+- Fixed CITATION.cff which had CC0-1.1 instead of license: CC0-1.0. CC0-1.1 is not a valid license. license: CC0-1.1 was accidentally added when replacing 1.0 with 1.1. I did replace all 1.0 with 1.1.
+- repository has been fixed.
+
 ## [1.1.0] - 2025-07-31
 
 ### Added
