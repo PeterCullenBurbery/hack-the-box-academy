@@ -1,5 +1,7 @@
 # Hack the Box Academy
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16645544.svg)](https://doi.org/10.5281/zenodo.16645544)
+
 This repository contains a collection of Hack the box academy modules in mhtml ("MIME encapsulation of aggregate HTML documents") format.
 
 ## 📁 Directory Structure
@@ -45,6 +47,4 @@ This project is shared under a Creative Commons Zero (CC0) license, except where
 
 If you use this archive in your work, please cite the following:
 
-<!-- > Peter Cullen Burbery. (2025). National Geographic Kids – Magazine Archive (v1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.16587681 -->
-
-> Peter Cullen Burbery. (2025). Hack the Box modules archive (v1.0.0) [Data set].
+> Peter Cullen Burbery. (2025). Hack the Box modules archive (v1.1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.16645544
