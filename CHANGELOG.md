@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.5.0] - 2025-07-31
+
+- Abusing HTTP Misconfigurations tier 3 module released.
+
 ## [1.4.0] - 2025-07-31
 
 - Advanced SQL Injections tier 3 module released.
