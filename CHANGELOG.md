@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.4.0] - 2025-07-31
+
+- Advanced SQL Injections tier 3 module released.
+
 ## [1.3.0] - 2025-07-31
 
 - HTTPs/TLS Attacks tier 3 module released.
