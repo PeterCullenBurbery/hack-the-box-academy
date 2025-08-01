@@ -6,7 +6,7 @@ This repository contains a collection of Hack the box academy modules in mhtml (
 
 ## 📁 Directory Structure
 
-The `modules/` folder contains modules from "Intro to Academy" to "Advanced XSS and CSRF Exploitation".
+The `modules/` folder contains modules from "Intro to Academy" to "ADCS Attacks".
 
 There are too many files slash folders to list individually here. Please explore the modules directly to see available issues.
 

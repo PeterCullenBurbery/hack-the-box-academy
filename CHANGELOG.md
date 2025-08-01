@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 
 ## [2.4.0] - 2025-008-001 013.019.053.476931400 America/New_York 2025-W031-005 2025-213
 
+- "ADCS Attacks" tier 3 module released.
+
+## [2.4.0] - 2025-008-001 013.019.053.476931400 America/New_York 2025-W031-005 2025-213
+
 - "Advanced XSS and CSRF Exploitation" tier 3 module released.
 
 ## [2.3.0] - 2025-008-001 013.001.017.517707200 America/New_York 2025-W031-005 2025-213
