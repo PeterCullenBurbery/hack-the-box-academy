@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## [2.4.0] - 2025-008-001 013.019.053.476931400 America/New_York 2025-W031-005 2025-213
+## [2.5.0] - 2025-008-001 014.053.043.674838500 America/New_York 2025-W031-005 2025-213
 
 - "ADCS Attacks" tier 3 module released.
 
