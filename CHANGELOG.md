@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## [2.2.0] - 2025-008-001
+
+- "Modern Web Exploitation Techniques" tier 3 module released.
+- Updated README.md to accurately reflect available modules. Updated README.md to accurately reflect available modules from "Game Reversing & Modding" to "Modern Web Exploitation Techniques".
+
 ## [2.1.0] - 2025-008-001
 
 - "Android Application Static Analysis" tier 3 module released.
