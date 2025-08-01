@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## [1.9.0] - 2025-07-31
+## [1.9.0] - 2025-08-01
 
 - "Game Reversing & Modding" tier 3 module released.
 
