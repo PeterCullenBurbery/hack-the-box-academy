@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.7.0] - 2025-07-31
+
+- "Injection Attacks" tier 3 module released.
+
 ## [1.6.0] - 2025-07-31
 
 ### Added
