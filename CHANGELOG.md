@@ -2,21 +2,31 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.6.0] - 2025-07-31
+
+### Added
+
+- "HTTP Attacks" tier 3 module released.
+
+### Upgraded/updated
+
+- quotes added around changelog modules for increased clarity.
+
 ## [1.5.0] - 2025-07-31
 
-- Abusing HTTP Misconfigurations tier 3 module released.
+- "Abusing HTTP Misconfigurations" tier 3 module released.
 
 ## [1.4.0] - 2025-07-31
 
-- Advanced SQL Injections tier 3 module released.
+- "Advanced SQL Injections" tier 3 module released.
 
 ## [1.3.0] - 2025-07-31
 
-- HTTPs/TLS Attacks tier 3 module released.
+- "HTTPs/TLS Attacks" tier 3 module released.
 
 ## [1.2.0] - 2025-07-31
 
-- Game Hacking Fundamentals tier 3 module released.
+- "Game Hacking Fundamentals" tier 3 module released.
 
 ## [1.1.1] - 2025-07-31
 
