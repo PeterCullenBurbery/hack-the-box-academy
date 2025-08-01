@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.8.0] - 2025-07-31
+
+- "Whitebox Attacks" tier 3 module released.
+
 ## [1.7.0] - 2025-07-31
 
 - "Injection Attacks" tier 3 module released.
