@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## [2.0.0] - 2025-008-001
+
+- "DACL Attacks I" tier 3 module released.
+
 ## [1.9.2] - 2025-008-001
 
 - Updated README.md to accurately reflect available modules. Updated README.md to accurately reflect available modules from "Blind SQL Injection" to "Game Reversing & Modding".
