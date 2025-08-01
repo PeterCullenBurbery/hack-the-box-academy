@@ -6,13 +6,13 @@ This repository contains a collection of Hack the box academy modules in mhtml (
 
 ## 📁 Directory Structure
 
-The `modules/` folder contains modules from "Intro to Academy" to "Blind SQL Injection".
+The `modules/` folder contains modules from "Intro to Academy" to "Game Reversing & Modding".
 
 There are too many files slash folders to list individually here. Please explore the modules directly to see available issues.
 
 ## 🔍 Description
 
-This archive preserves modules from "Intro to Academy" to "Blind SQL Injection". There are tier 0 modules, like "Intro to Academy", "Learning Process", and "Linux Fundamentals". There are tier 1 modules, like "Network Enumeration with Nmap", "Introduction to Bash Scripting", and "DNS Enumeration Using Python".
+This archive preserves modules from "Intro to Academy" to "Game Reversing & Modding". There are tier 0 modules, like "Intro to Academy", "Learning Process", and "Linux Fundamentals". There are tier 1 modules, like "Network Enumeration with Nmap", "Introduction to Bash Scripting", and "DNS Enumeration Using Python".
 
 There are tier 2 modules, like "Cracking Passwords with Hashcat", "Linux Privilege Escalation", and "Login Brute Forcing". There are tier 3 modules, like "Kerberos Attacks", "Whitebox Pentesting 101: Command Injection", and "Active Directory PowerView".
 
@@ -47,4 +47,4 @@ This project is shared under a Creative Commons Zero (CC0) license, except where
 
 If you use this archive in your work, please cite the following:
 
-> Peter Cullen Burbery. (2025). Hack the Box modules archive (v1.9.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.16645544
+> Peter Cullen Burbery. (2025). Hack the Box modules archive (v1.9.2) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.16645544

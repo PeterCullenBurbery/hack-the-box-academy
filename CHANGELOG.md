@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.9.2] - 2025-008-001
+
+- Updated README.md to accurately reflect available modules. Updated README.md to accurately reflect available modules from "Blind SQL Injection" to "Game Reversing & Modding".
+
 ## [1.9.1] - 2025-008-001
 
 - Updated date format from "2025-08-01" to "2025-008-001", for example. Updated date format from "2025-08-01" to "2025-008-001" in CHANGELOG.md.
