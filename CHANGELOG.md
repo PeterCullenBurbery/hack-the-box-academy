@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## [2.3.0] - 2025-008-001 013.001.017.517707200 America/New_York 2025-W031-005 2025-213
+
+- "NTLM Relay Attacks" tier 3 module released.
+
 ## [2.2.0] - 2025-008-001
 
 - "Modern Web Exploitation Techniques" tier 3 module released.

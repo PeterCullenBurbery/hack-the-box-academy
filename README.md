@@ -6,7 +6,7 @@ This repository contains a collection of Hack the box academy modules in mhtml (
 
 ## 📁 Directory Structure
 
-The `modules/` folder contains modules from "Intro to Academy" to "Modern Web Exploitation Techniques".
+The `modules/` folder contains modules from "Intro to Academy" to "NTLM Relay Attacks".
 
 There are too many files slash folders to list individually here. Please explore the modules directly to see available issues.
 
@@ -47,4 +47,4 @@ This project is shared under a Creative Commons Zero (CC0) license, except where
 
 If you use this archive in your work, please cite the following:
 
-> Peter Cullen Burbery. (2025). Hack the Box modules archive (v2.2.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.16645544
+> Peter Cullen Burbery. (2025). Hack the Box modules archive (v2.3.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.16645544
