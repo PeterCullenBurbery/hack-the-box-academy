@@ -1,7 +1,7 @@
-cff-version: 1.9.0
+cff-version: 1.9.1
 message: "If you use this archive, please cite it using the metadata below."
 title: "Hack the Box academy - module archive"
-version: "1.9.0"
+version: "1.9.1"
 doi: 10.5281/zenodo.16645544
 url: https://doi.org/10.5281/zenodo.16645544
 date-released: 2025-07-31
