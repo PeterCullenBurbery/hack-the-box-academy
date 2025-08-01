@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## [2.1.0] - 2025-008-001
+
+- "Android Application Static Analysis" tier 3 module released.
+
 ## [2.0.0] - 2025-008-001
 
 - "DACL Attacks I" tier 3 module released.
