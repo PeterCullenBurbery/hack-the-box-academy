@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## [2.9.0] - 2025-008-002 019.036.047.539267700 America/New_York 2025-W031-006 2025-214
+
+- "Supply Chain Attacks" tier 3 module released.
+
 ## [2.8.0] - 2025-008-002 018.006.011.460176500 America/New_York 2025-W031-006 2025-214
 
 - "Intro to C2 Operations with Sliver" tier 3 module released.
