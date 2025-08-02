@@ -6,7 +6,7 @@ This repository contains a collection of Hack the box academy modules in mhtml (
 
 ## 📁 Directory Structure
 
-The `modules/` folder contains modules from "Intro to Academy" to "Intro to C2 Operations with Sliver".
+The `modules/` folder contains modules from "Intro to Academy" to "Supply Chain Attacks".
 
 There are too many files slash folders to list individually here. Please explore the modules directly to see available issues.
 
