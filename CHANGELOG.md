@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## [2.7.0] - 2025-008-002 012.058.058.757215800 America/New_York 2025-W031-006 2025-214
+
+- "Advanced Deserialization Attacks" tier 3 module released.
+
 ## [2.6.0] - 2025-008-002 009.028.039.381402100 America/New_York 2025-W031-006 2025-214
 
 - "Parameter Logic Bugs" tier 3 module released.
