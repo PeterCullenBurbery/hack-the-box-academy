@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## [3.0.0] - 2025-008-003 014.004.059.073443500 America/New_York 2025-W031-007 2025-215
+
+- "Intro to Whitebox Pentesting" tier 3 module released.
+
 ## [2.9.0] - 2025-008-002 019.036.047.539267700 America/New_York 2025-W031-006 2025-214
 
 - "Supply Chain Attacks" tier 3 module released.
