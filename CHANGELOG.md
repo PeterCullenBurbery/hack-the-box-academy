@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## [3.1.0] - 2025-008-004 016.047.001.114069500 America/New_York 2025-W032-001 2025-216
+
+- "User Behavior Forensics" tier 3 module released.
+
 ## [3.0.0] - 2025-008-003 014.004.059.073443500 America/New_York 2025-W031-007 2025-215
 
 - "Intro to Whitebox Pentesting" tier 3 module released.
