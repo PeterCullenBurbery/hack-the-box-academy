@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## [3.1.1] - 2025_008_007_012_029_017_988221800_America_slash_New_York_2025_W032_004_2025_219
+
+- version field removed from CITATION.cff. It was too much hassle [to keep up to date].
+
 ## [3.1.0] - 2025-008-004 016.047.001.114069500 America/New_York 2025-W032-001 2025-216
 
 - "User Behavior Forensics" tier 3 module released.
