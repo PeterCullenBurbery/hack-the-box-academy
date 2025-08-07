@@ -6,7 +6,7 @@ This repository contains a collection of Hack the box academy modules in mhtml (
 
 ## 📁 Directory Structure
 
-The `modules/` folder contains modules from "Intro to Academy" to "Intro to Whitebox Pentesting".
+The `modules/` folder contains modules from "Intro to Academy" to "User Behavior Forensics".
 
 There are too many files slash folders to list individually here. Please explore the modules directly to see available issues.
 
